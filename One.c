@@ -17,11 +17,12 @@
 /*
  * 
  */
+int main(){
 int meia=0;
 int sete=0;
 int Ce;
-int what() 
-{
+int what(); 
+
     meia=666;
     sete=777;
     printf("A: %i\n", meia);
